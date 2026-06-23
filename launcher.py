@@ -20,7 +20,7 @@ from tkinter import messagebox
 # ══════════════════════════════════════════════════════════════
 ALLOWED_USERS = [
     "admin",
-    "engineer1",
+    "mohammed.ali2",
     "engineer2",
     "reviewer",
     # Add your team below — one username per line:
